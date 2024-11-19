@@ -26,4 +26,4 @@ In Phase 1, a similar analysis was performed using Tableau, but this project aim
 - Integration with external data sources, such as weather and astronomical events.
 
 ## Contact
-For questions or collaborations, feel free to reach out via [Your Email/Contact Information].
+For questions or collaborations, feel free to reach out via [yyyu0808@gmail.com]
